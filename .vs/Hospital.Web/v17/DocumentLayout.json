@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|solutionrelative:hospital.utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.utilities\\hospital.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|solutionrelative:hospital.utilities\\hospital.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.Utilities",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "RelativeDocumentMoniker": "Hospital.Utilities\\Hospital.Utilities.csproj",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "RelativeToolTip": "Hospital.Utilities\\Hospital.Utilities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T02:07:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Hospital.Utilities\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\EmailSender.cs",
+              "RelativeToolTip": "Hospital.Utilities\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:08:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hospital.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T02:05:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:01:38.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\appsettings.json",
+              "RelativeToolTip": "Hospital.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T01:54:46.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Program.cs",
+              "RelativeToolTip": "Hospital.Web\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:29:22.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

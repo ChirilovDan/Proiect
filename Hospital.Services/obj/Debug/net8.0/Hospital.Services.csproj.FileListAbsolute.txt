@@ -1,0 +1,11 @@
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Services.deps.json
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Services.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Services.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.AssemblyInfo.cs
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\refint\Hospital.Services.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\ref\Hospital.Services.dll
