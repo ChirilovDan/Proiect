@@ -9,3 +9,16 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\ne
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\refint\Hospital.Services.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.pdb
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\ref\Hospital.Services.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Services.runtimeconfig.json
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Models.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Utilities.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.ViewModels.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Utilities.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.ViewModels.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Models.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.sourcelink.json
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.18A9D8D9.Up2Date
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Services\obj\Debug\net8.0\Hospital.Services.genruntimeconfig.cache

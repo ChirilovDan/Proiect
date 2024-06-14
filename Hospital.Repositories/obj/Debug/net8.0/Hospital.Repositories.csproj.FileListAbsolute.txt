@@ -15,3 +15,4 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Repositories\obj\Debu
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.pdb
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Repositories\obj\Debug\net8.0\Hospital.043409E1.Up2Date
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.sourcelink.json

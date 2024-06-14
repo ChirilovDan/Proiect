@@ -10,3 +10,4 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\refint\Hospital.Models.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.pdb
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\ref\Hospital.Models.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.sourcelink.json

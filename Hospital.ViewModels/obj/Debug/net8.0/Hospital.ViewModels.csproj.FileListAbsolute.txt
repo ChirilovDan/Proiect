@@ -9,3 +9,8 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\refint\Hospital.ViewModels.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.pdb
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\ref\Hospital.ViewModels.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.dll
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.pdb
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.sourcelink.json
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.ViewModels\obj\Debug\net8.0\Hospital.62AB27C3.Up2Date

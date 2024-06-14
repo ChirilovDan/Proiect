@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Identity;
-
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -20,7 +19,7 @@ namespace Hospital.Models
         public Department Department { get; set; }
 
         public ICollection<Appointment> Appointment {  get; set; }
-        public ICollection<Payrolls> Payrolls { get; set; }
+        public ICollection<Payroll> Payrolls { get; set; }
 
     }
 }

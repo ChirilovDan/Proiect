@@ -17,3 +17,4 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Utilities\obj\Debug\n
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Utilities\obj\Debug\net8.0\ref\Hospital.Utilities.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Utilities\bin\Debug\net8.0\Hospital.Utilities.runtimeconfig.json
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.genruntimeconfig.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.sourcelink.json

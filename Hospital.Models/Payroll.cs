@@ -1,6 +1,6 @@
 ﻿namespace Hospital.Models
 {
-    public class Payrolls
+    public class Payroll
     {
         public int Id { get; set; }
         public ApplicationUser EmployeeId { get; set; }
