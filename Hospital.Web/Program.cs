@@ -12,6 +12,7 @@ namespace Hospital.Web
     {
         public static void Main(string[] args)
         {
+            //Create applictaion builder
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
