@@ -6,8 +6,8 @@ C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfoInputs.cache
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfo.cs
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.sourcelink.json
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\refint\Hospital.Models.dll
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.pdb
 C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\ref\Hospital.Models.dll
-C:\Users\Dan\Desktop\Licenta Proiect\Hospital.Web\Hospital.Models\obj\Debug\net8.0\Hospital.Models.sourcelink.json
