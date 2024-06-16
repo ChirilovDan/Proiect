@@ -3,68 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C17A817D-41C1-4365-A2F8-92522F443720}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17A817D-41C1-4365-A2F8-92522F443720}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2824B42-12EE-49C5-A4A8-504433E7FD70}|Hospital.Services\\Hospital.Services.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.services\\hospitalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2824B42-12EE-49C5-A4A8-504433E7FD70}|Hospital.Services\\Hospital.Services.csproj|solutionrelative:hospital.services\\hospitalinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2824B42-12EE-49C5-A4A8-504433E7FD70}|Hospital.Services\\Hospital.Services.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.services\\ihospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2824B42-12EE-49C5-A4A8-504433E7FD70}|Hospital.Services\\Hospital.Services.csproj|solutionrelative:hospital.services\\ihospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3311D0F-8FA5-4BB7-9DF6-C098FFFEEE34}|Hospital.ViewModels\\Hospital.ViewModels.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.viewmodels\\hospitalinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3311D0F-8FA5-4BB7-9DF6-C098FFFEEE34}|Hospital.ViewModels\\Hospital.ViewModels.csproj|solutionrelative:hospital.viewmodels\\hospitalinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.utilities\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E99B4B9D-C81B-4ABC-9BE1-6B1C8E2B9B7A}|Hospital.Utilities\\Hospital.Utilities.csproj|solutionrelative:hospital.utilities\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\hospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\hospitalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D034368-070C-47B5-AFD3-AEA69F3D9C12}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital.Models\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\TestPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital.Models\\TestPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital.Models\\Lab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|c:\\users\\dan\\desktop\\licenta proiect\\hospital.web\\hospital.web\\areas\\admin\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECB674D-D64E-43F3-B3DF-E0E2B04C148E}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\admin\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,213 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Appointment.cs*",
-              "RelativeToolTip": "Hospital.Models\\Appointment.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:10:52.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\ApplicationUser.cs*",
-              "RelativeToolTip": "Hospital.Models\\ApplicationUser.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:07:53.679Z",
+              "WhenOpened": "2024-06-16T00:29:25.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Hospital.Web\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Hospital.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:02:47.365Z",
+              "WhenOpened": "2024-06-16T00:26:43.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HospitalsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Controllers\\HospitalsController.cs",
-              "RelativeDocumentMoniker": "Hospital.Web\\Controllers\\HospitalsController.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Controllers\\HospitalsController.cs",
-              "RelativeToolTip": "Hospital.Web\\Controllers\\HospitalsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T02:01:50.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HospitalInfoService.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Services\\HospitalInfoService.cs",
-              "RelativeDocumentMoniker": "Hospital.Services\\HospitalInfoService.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Services\\HospitalInfoService.cs",
-              "RelativeToolTip": "Hospital.Services\\HospitalInfoService.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:28:16.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HospitalInfoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.ViewModels\\HospitalInfoViewModel.cs",
-              "RelativeDocumentMoniker": "Hospital.ViewModels\\HospitalInfoViewModel.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.ViewModels\\HospitalInfoViewModel.cs",
-              "RelativeToolTip": "Hospital.ViewModels\\HospitalInfoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:25:51.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IHospitalInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Services\\IHospitalInfo.cs",
-              "RelativeDocumentMoniker": "Hospital.Services\\IHospitalInfo.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Services\\IHospitalInfo.cs",
-              "RelativeToolTip": "Hospital.Services\\IHospitalInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:10:55.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PagedResult.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\PagedResult.cs",
-              "RelativeDocumentMoniker": "Hospital.Utilities\\PagedResult.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Utilities\\PagedResult.cs",
-              "RelativeToolTip": "Hospital.Utilities\\PagedResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:04:19.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HospitalInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\HospitalInfo.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\HospitalInfo.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\HospitalInfo.cs",
-              "RelativeToolTip": "Hospital.Models\\HospitalInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:58:14.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Room.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Room.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Room.cs",
-              "RelativeToolTip": "Hospital.Models\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Admin\\Controllers\\HospitalsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:48:43.291Z",
+              "WhenOpened": "2024-06-16T00:07:08.514Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Payroll.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Payroll.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Payroll.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Payroll.cs",
-              "RelativeToolTip": "Hospital.Models\\Payroll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:42:49.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Repositories\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Repositories\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T23:38:20.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Insurance.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Insurance.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Insurance.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Insurance.cs",
-              "RelativeToolTip": "Hospital.Models\\Insurance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T04:03:27.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Bill.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Bill.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Bill.cs",
-              "RelativeToolTip": "Hospital.Models\\Bill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T03:59:43.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TestPrice.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\TestPrice.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\TestPrice.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\TestPrice.cs",
-              "RelativeToolTip": "Hospital.Models\\TestPrice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T03:57:36.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Lab.cs",
-              "DocumentMoniker": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Lab.cs",
-              "RelativeDocumentMoniker": "Hospital.Models\\Lab.cs",
-              "ToolTip": "C:\\Users\\Dan\\Desktop\\Licenta Proiect\\Hospital.Web\\Hospital.Models\\Lab.cs",
-              "RelativeToolTip": "Hospital.Models\\Lab.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T03:52:11.189Z"
             }
           ]
         }

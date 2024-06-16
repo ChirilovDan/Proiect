@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Hospital.Repositories.Implementation
 {
-    internal class GenericRepository<T>:IDisposable , IGenericRepository<T> where T:class
+    public class GenericRepository<T>:IDisposable , IGenericRepository<T> where T:class
     {
         private readonly ApplicationDbContext _context;
         internal DbSet<T> dbSet;
